@@ -1,0 +1,2 @@
+#!/bin/bash
+echo count=$(find 2-path -type d | wc -l)
