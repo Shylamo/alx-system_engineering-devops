@@ -1,2 +1,2 @@
 #!/bin/bash
-ls | sort -rk 7 |head -n 10
+ls -la | sort -k 8 | head -n 10
